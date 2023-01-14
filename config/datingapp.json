@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "datingapp-3423b",
+  "private_key_id": "f21f29b81e4eebd3abb291b19fc7a64a71de432b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFxcBu/N0aPp+f\nUuui15ji4Q8STpFGD9WKszlq+q8chWa3TmXQOsW21UgCunq/p8lgoE+L6btcp3pt\nR09Z0wGms/oqUHne/U4EMvWhxSgAur7pIPL+IW2lK5G/WbYKaMOlsd+EF+d2/1uM\nc0ZvcC7VFD7AjdPQod1KcHEeRWfdO7wUfg5r8eMcwzc9DdAUydWoKUD/JJCx6+fO\nsNvWrxwDLgLhK3lAElnRPQPuAgi/WY3Y9VmmdmH3gUQCMHtu5Ye4kc0UPyNGzu0i\n3x/ydm3vBWr+CKjpauSt6uhn2O+qhAvNRWm8JzUugThlrWVovmt76MiXA8TGYeEP\nXmkubnMjAgMBAAECggEADSOMaFmbm/nYFriACtzIfYSJ9BazJDshRF2QYKqQOQe/\nYXzJJ8wxXjdAjJBBK/vK7zftp1pn7G/8VeE2BNfCiGwn7QK7eseyR9yI1Af2/RSe\nLuFVzPG0lcbVhnRaMzCiYTiP15GgLeT2FIuEY05J7879NXajdHzxNVfpM/BUrG5R\nfonDQGBvnOdS0mbGHJUSFMsx3TOHAaX9ghbo8lr1QOPnfpFxrSHq+lgqZ3TzdhsY\nBcb3VU+09azizFZ3u8OUSNXhlQGRndwrlZqmmRompuYLV1g7E3U5Cbx/msl/Zkwh\nyJL53rIVByvjCbihIEecAoZsw9x3/eF/w40QLUEZjQKBgQDnEZEA+FOA7snXAfr5\n3m5DfCyQ2QQ4Eow5EhYyaEQ4zkyk1XENoDzM1tAIWxBuRlfYhAPATfWJvYTGUful\neA/4u2RJJo0WqOj0G1bfzh70cfnskasTL5te6AqeLnDMdi8dDP1RaZcyvuNiKZGT\nrbzaX2yezfE0J/fSfiDHUDe1LwKBgQDbHH/soNvGZG+6hnDgljwKMq+AMBBOQIVw\ncQw+07PTZJppOBJAAm1BIxf4TDHnV3cStFsO6FCLPNXWvHxCXjG4qf4bCKtBvSx2\ngWyLfQGITXdEmiWwvn2zHsnBlbIeJemlMdKaP/MwN/+wDQ3+O+sYTBp1mylB/cv1\nZh9ol41MTQKBgGEARtcZaDSgCatw8WMjtTYvUqYb9GF1p9ftd9QBYWJXeGVaFPOb\naOq04vAfCm7AqPADu29nSsRgAvUeRX3ZQRsxz4/F10TD88dGEtoxNV1422osXJzZ\nR2g4EP0GkePDWVPguBcNNKPg7qOuv6Y3MSibFoYz/iXfAXIj8K67RieRAoGBAKtQ\nsDCqYMvQcY8sWIswy8bJdHDMo6MbTXnp2cIxsjNBQH2uKo7DlvrL3ozzvjz8JQyJ\n2XxhZcBIE4XvH1Sg401YFGa8s3IV3/LUJLM3TQBuWSdZQsjbV9q54tOqIHbz+6d+\nugSCpbj4v8C9pEg4PwtjTXjQlUSUlGjNrRcRD5gtAoGBAM4MbYrEqsuIYGuKuxx3\ncRFAeg1R0Ap9Ggowkl+ATrA3af1CPQSTJjxyhXl0BC+cDuifPEG1tSIqzxJl4qkN\n9JF31SKjmamvi84LVBgGE4YNSeTp78QqzxmYNFq6KKYoDy0IqgL1Z8tQbvGGWu5P\nPINwTQtewZ1F/LmAPzHfEh7R\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ok7h7@datingapp-3423b.iam.gserviceaccount.com",
+  "client_id": "107310557973670456111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ok7h7%40datingapp-3423b.iam.gserviceaccount.com"
+}
